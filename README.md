@@ -1,3 +1,3 @@
 # myFirstRepo
 This is my first repository
-By Ranith
+By Ranith Sachintha Ranawaka
